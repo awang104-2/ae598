@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/editor settings
+.idea/
+.vscode/
